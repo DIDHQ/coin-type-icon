@@ -1,25 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg fill="none" viewBox="0 0 76 76" xmlns="http://www.w3.org/2000/svg">
-<g filter="url(#a)">
-<g clip-path="url(#b)">
-<path d="m72.915 45.709c-4.808 19.286-24.342 31.023-43.63 26.214-19.28-4.808-31.017-24.343-26.207-43.627 4.806-19.288 24.339-31.026 43.622-26.218 19.287 4.8081 31.023 24.345 26.214 43.632l4e-4 -3e-4h1e-4z" fill="#F3BA2F"/>
-<path d="m38 23.848-9.3218 9.3216-5.4238-5.424 14.746-14.746 14.75 14.75-5.424 5.424-9.3264-9.326zm-18.576 7.7271-5.4242 5.4249 5.4238 5.4231 5.4242-5.4242-5.4238-5.4238zm9.2549 9.2555 9.322 9.3214 9.3262-9.3258 5.4268 5.4211-0.0027 0.0029-14.75 14.75-14.753-14.753 5.4313-5.4161zm27.897-9.2526-5.4242 5.4242 5.424 5.4238 5.424-5.4242-5.4238-5.4238z" clip-rule="evenodd" fill="#fff" fill-rule="evenodd"/>
-<path d="m43.504 36.997h0.0023l-5.5035-5.5039-4.0679 4.0668-0.4673 0.4675-0.9638 0.964-0.0077 0.0075 0.0077 0.0079 5.499 5.4998 5.5039-5.5039 0.0027-3e-3 -5e-3 -0.0027" fill="#fff"/>
+<svg fill="none" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#c)">
+<g filter="url(#b)">
+<mask id="a" x="0" y="0" width="72" height="72" style="mask-type:luminance" maskUnits="userSpaceOnUse">
+<path d="m72 36c0-19.882-16.118-36-36-36s-36 16.118-36 36 16.118 36 36 36 36-16.118 36-36z" fill="#fff"/>
+</mask>
+<g mask="url(#a)">
+<path d="m70.915 44.709c-4.808 19.286-24.342 31.023-43.63 26.214-19.28-4.808-31.017-24.343-26.207-43.627 4.806-19.288 24.339-31.026 43.622-26.218 19.287 4.8081 31.023 24.345 26.214 43.632l1e-3 -1e-3z" fill="#F3BA2F"/>
+<path d="m36 22.848-9.3218 9.3216-5.4238-5.424 14.746-14.746 14.75 14.75-5.424 5.424-9.3264-9.3256zm-18.576 7.7271-5.4242 5.4249 5.4238 5.4231 5.4242-5.4242-5.4238-5.4238zm9.2549 9.2555 9.322 9.3214 9.3262-9.3258 5.4268 5.4211-0.0027 0.0029-14.75 14.75-14.753-14.753 5.4307-5.4166zm27.897-9.2526-5.4242 5.4242 5.424 5.4238 5.424-5.4242-5.4238-5.4238z" clip-rule="evenodd" fill="#fff" fill-rule="evenodd"/>
+<path d="m41.504 35.997h0.0023l-5.5035-5.5039-4.0679 4.0668-0.4673 0.4675-0.9638 0.964-0.0077 0.0075 0.0077 0.0079 5.499 5.4998 5.5039-5.5039 0.0027-3e-3 -0.0054-0.0027z" fill="#fff"/>
 </g>
-<rect x="2.5" y="1.5" width="71" height="71" rx="35.5" stroke="#526279" stroke-opacity=".1"/>
+<path d="m71.5 36c0-19.606-15.894-35.5-35.5-35.5s-35.5 15.894-35.5 35.5 15.894 35.5 35.5 35.5 35.5-15.894 35.5-35.5z" stroke="#526279" stroke-opacity=".1"/>
+</g>
 </g>
 <defs>
-<filter id="a" x="0" y="0" width="76" height="76" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+<filter id="b" x="-2" y="-1" width="76" height="76" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
 <feOffset dy="1"/>
 <feGaussianBlur stdDeviation="1"/>
 <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.04 0"/>
-<feBlend in2="BackgroundImageFix" result="effect1_dropShadow_1053_117223"/>
-<feBlend in="SourceGraphic" in2="effect1_dropShadow_1053_117223" result="shape"/>
+<feBlend in2="BackgroundImageFix" result="effect1_dropShadow_106_142"/>
+<feBlend in="SourceGraphic" in2="effect1_dropShadow_106_142" result="shape"/>
 </filter>
-<clipPath id="b">
-<rect x="2" y="1" width="72" height="72" rx="36" fill="#fff"/>
+<clipPath id="c">
+<rect width="72" height="72" fill="#fff"/>
 </clipPath>
 </defs>
 </svg>
